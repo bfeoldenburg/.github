@@ -1,3 +1,4 @@
+# Bundestechnologiezentrum für Elektro- und Informationstechnik e. V.
 Die Elektrotechnik hat das Potenzial, als Innovationsmotor eine tragende Rolle in der deutschen Wirtschaft zu spielen. – In dieser festen Überzeugung waren sich die Stadt, die Handwerkskammer und die Elektroinnung in Oldenburg einig, als sie im kriegszerstörten Deutschland über neue Chancen nachdachten. Mit Weitblick gründeten sie daher 1947 das BFE – als unabhängige Meisterschule für qualitativ hochwertige Ausbildung im Elektrohandwerk. Mit Bedacht schrieben die Gründer dabei dem Bundestechnologiezentrum einen landesweiten Auftrag in den Namen: Es sollte für ganz Deutschland zentrale Anlaufstelle der Branche werden. 
 
 # Über den Tellerrand hinaus 
