@@ -3,6 +3,7 @@ Die Elektrotechnik hat das Potenzial, als Innovationsmotor eine tragende Rolle i
 
 # Über den Tellerrand hinaus 
 Seitdem hat sich das BFE zur größten Meisterschule Deutschlands entwickelt; mehr als 27.000 Meister wurden hier ausgebildet. Als einziger Bildungsdienstleister der Elektro- und Informationstechnik bietet es alle fünf Meisterschwerpunkte sowie den Betriebswirt und Fachplaner als weitere Karriereschritte an. 
+
 Jährlich bereiten die Dozenten des BFE über 400 offene und firmeninterne Seminartitel auf – womit das Bundestechnologiezentrum auch in diesem Geschäftsfeld als Deutschlands Nummer eins unter den Weiterbildern der E- und I-Branche gilt. In täglicher Teamarbeit werden vorhandene Themen konsequent weiterentwickelt und in enger Zusammenarbeit mit führenden Wirtschaftsunternehmen neue Kurse konzipiert. So sind zum Beispiel die Qualifikationen im Blitz- und Überspannungsschutz ursprünglich im BFE entstanden. Heute zählen sie landesweit zu den Standardausbildungen. Sämtliche Rahmenlehrpläne für die fünf Elektro- und Informationstechnikermeister haben BFE-Dozenten in Zusammenarbeit mit dem Zentralverband ZVEH aufgestellt. 
 
 # Im Dienste des Handwerks 
@@ -11,6 +12,7 @@ Innovationskraft hat das BFE auch bei der Schaffung einer einzigartigen Datenban
 
 # Kompetenzzentrum für die Branche 
 Beim BFE engagieren sich die meisten der 40 hauptberuflichen Dozenten in den entscheidenden Gremien der Branche sowie über maßgebliche Forschungs- und Förderprojekte für die Zukunft und Qualität der Weiterbildung. Das Lehrangebot, die Gutachtertätigkeit und die enge Kooperation mit führenden Wirtschaftsunternehmen speisen vielschichtiges Know-how in den Wissenspool des BFE. Gebildet hat sich ein Kompetenzzentrum für die Elektro- und Informationstechnikbranche. Eine Kompetenz, die dringend von der Wirtschaft benötigt wird. 
+
 So haben sich die Herausforderungen an das BFE seit 1947 stark gewandelt. Damals litt Deutschland unter den Nachkriegskonsequenzen. Heute kämpft die Wirtschaft im Zuge des demographischen Wandels vor allem mit Nachwuchsproblemen; auch schwankt das Leistungsniveau der nachrückenden Generation stark. Eine Vielzahl an schnell aufkommenden Techniktrends, die Globalisierung und immer mehr Universitäts- und Ausbildungs-Abschlüsse schaffen eine unübersichtlichere Bildungslandschaft. 
 
 # Wir bleiben Leuchtturm! 
